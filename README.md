@@ -6,8 +6,8 @@ Motion.
 
 ## Live demo
 
-- App: _add your Vercel URL here after deploying_
-- Repo: _add your GitHub URL here_
+- App: https://learn-flow-ten-virid.vercel.app/
+- Repo: https://github.com/Angadbhardwaj03/learn___flow
 
 ## Getting started
 
